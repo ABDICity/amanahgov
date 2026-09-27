@@ -1,0 +1,6 @@
+{
+  "name": "AmanahGov - Platform Layanan Publik & Audit Blockchain",
+  "description": "Infrastruktur cerdas pelayanan publik berlandaskan nilai kepemimpinan Rasulullah SAW dengan transparansi transaksi, audit otomatis blockchain, dan pemantauan pengaduan real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
